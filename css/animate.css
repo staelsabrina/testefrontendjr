@@ -1,0 +1,11 @@
+/* Key Frames da animação */
+
+@keyframes animate {
+    0%{
+        background-position-y: 0;
+    }
+
+    100%{
+        background-position-y: 500px;
+    }
+}
