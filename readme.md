@@ -9,3 +9,4 @@
 * Quando em telas pequenas, o segunda campo passa a ser toda em coluna.
 * Em telas menores, também o gráfico muda de posição, de colunas para linhas.
 
+Para acessar a page do projeto, [clique aqui](https://staelsabrina.github.io/testefrontendjr/).
